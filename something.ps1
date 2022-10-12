@@ -1,8 +1,7 @@
 function hello-world {
-    Param(
+    Write-Output("EHlo govern'er")
+}
 
-    )
-Write-Output("EHlo govern'er")
-        }
-        } #foreach
-} #function
+function dice-roller{
+    #This will roll bones someday.
+}
